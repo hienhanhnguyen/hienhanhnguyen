@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hien Hanh</h1>
-<h3 align="center">A frontend developer who turns coffee into code 😉</h3>
+<h3 align="center">Frontend student by day, bug creator by night 😑 </h3>
 
 - 🔭 I’m currently studying at **Ho Chi Minh City University of Technology (VNU-HCMUT)**
 
