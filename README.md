@@ -5,7 +5,7 @@
 
 - 📗 I'm currently working on building **some personal projects**
 
-- 🌱 In the wild journey of learning to build **my first application**
+- 🌱 In the wild journey of building my third MVP **SimpleMetric, it will be released in Q1 - 2025**
 
 - 📫 How to reach me **nthhanh0504@gmail.com**
 
